@@ -1,5 +1,5 @@
 # CIME-PPG-dataset-2018
-CIME PPG dataset described in "Photoplethysmography Motion Artifacts Removal based on Signal-Noise Interaction Modeling Utilizing Envelope Filtering and Time-Delay Neural Network" and in "Ke Xu et al., Deep Recurrent Neural Network for Extracting Pulse Rate Variability from Photoplethysmography During Strenous Physical Exercise, in 2019 IEEE Biomedical Circuits and Systems Conference (BIOCAS), in press".
+CIME PPG dataset described in "Photoplethysmography Motion Artifacts Removal based on Signal-Noise Interaction Modeling Utilizing Envelope Filtering and Time-Delay Neural Network" and in "Ke Xu et al., "Deep Recurrent Neural Network for Extracting Pulse Rate Variability from Photoplethysmography During Strenuous Physical Exercise," 2019 IEEE Biomedical Circuits and Systems Conference (BioCAS), Nara, Japan, 2019, pp. 1-4.".
 
 The detailed description of the dataset can be found in attached file "dataset_description.pdf".
 
