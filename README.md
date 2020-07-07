@@ -10,7 +10,9 @@ Since the data size is beyond the maximum size required by github, please go to 
 For RESEARCH USE ONLY.
 
 Successful Examples of using CIME-PPG-dataset-2018: (Updated July 7th 2020)
- [1]	Ke Xu et al., “Stochastic Modeling based Nonlinear Bayesian Filtering for Photoplethysmography De-noising in Wearable Devices,” IEEE Transactions on Industrial Informatics, 2020. https://doi.org/10.1109/TII.2020.2988097
- [2]	Ke Xu et al., “Stochastic Modeling for Photoplethysmography Compression,” in 2020 42th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Montreal, Canada, Jul. 2020, in press.
+
+[1]	Ke Xu et al., “Stochastic Modeling based Nonlinear Bayesian Filtering for Photoplethysmography De-noising in Wearable Devices,” IEEE Transactions on Industrial Informatics, 2020. https://doi.org/10.1109/TII.2020.2988097
+
+[2]	Ke Xu et al., “Stochastic Modeling for Photoplethysmography Compression,” in 2020 42th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Montreal, Canada, Jul. 2020, in press.
 
 For any question, please contact email: kexu18@fudan.edu.cn
